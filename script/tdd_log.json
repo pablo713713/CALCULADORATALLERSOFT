@@ -66,5 +66,21 @@
     "commitName": "un numero",
     "commitTimestamp": 1779938120027,
     "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1779938191918,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1779938215526,
+    "success": true,
+    "testId": 2
   }
 ]
