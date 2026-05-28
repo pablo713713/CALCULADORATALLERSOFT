@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "pablo",
+    "commit": {
+      "date": "2026-05-28T03:11:43.000Z",
+      "message": "caso base",
+      "url": "https://github.com/pablo713713/CALCULADORATALLERSOFT/commit/HEAD"
+    },
+    "stats": {
+      "total": 20,
+      "additions": 11,
+      "deletions": 9,
+      "date": "2026-05-28"
+    },
+    "coverage": 66.67,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
