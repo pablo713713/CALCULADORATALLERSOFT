@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "81261961a86e1aea55519b8b9d321ca7dad574c1",
     "author": "pablo",
     "commit": {
       "date": "2026-05-28T03:11:43.000Z",
       "message": "caso base",
-      "url": "https://github.com/pablo713713/CALCULADORATALLERSOFT/commit/HEAD"
+      "url": "https://github.com/pablo713713/CALCULADORATALLERSOFT/commit/81261961a86e1aea55519b8b9d321ca7dad574c1"
     },
     "stats": {
       "total": 20,
@@ -15,6 +15,25 @@
     },
     "coverage": 66.67,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pablo",
+    "commit": {
+      "date": "2026-05-28T03:15:19.000Z",
+      "message": "un numero",
+      "url": "https://github.com/pablo713713/CALCULADORATALLERSOFT/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }

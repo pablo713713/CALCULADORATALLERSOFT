@@ -48,9 +48,23 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "81261961a86e1aea55519b8b9d321ca7dad574c1",
     "commitName": "caso base",
     "commitTimestamp": 1779937904736,
     "testId": 0
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1779938097316,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "un numero",
+    "commitTimestamp": 1779938120027,
+    "testId": 1
   }
 ]
