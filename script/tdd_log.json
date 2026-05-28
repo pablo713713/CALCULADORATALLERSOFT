@@ -62,7 +62,7 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "75a75f2516b4e13e74941a49b38a93deb569d998",
     "commitName": "un numero",
     "commitTimestamp": 1779938120027,
     "testId": 1
@@ -82,5 +82,19 @@
     "timestamp": 1779938215526,
     "success": true,
     "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "caso dos numeros",
+    "commitTimestamp": 1779938253720,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1779938293950,
+    "success": true,
+    "testId": 3
   }
 ]

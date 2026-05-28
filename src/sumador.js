@@ -3,12 +3,14 @@ function sumar(cadena) {
     return 0;
   }
   
-  if (cadena.includes(",")) {
-    const numeros = cadena.split(",");
-    return parseInt(numeros[0]) + parseInt(numeros[1]);
+  const numeros = cadena.split(",");
+  let suma = 0;
+  
+  for (let i = 0; i < numeros.length; i++) {
+    suma += parseInt(numeros[i]);
   }
-
-  return parseInt(cadena);
+  
+  return suma;
 }
 
 export default sumar;
